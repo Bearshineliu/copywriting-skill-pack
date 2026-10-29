@@ -140,10 +140,10 @@ description: 四方向短视频文案技能包（流量/人设/涨粉/变现）�
 | 文件 | 内容 | 什么时候读 |
 |------|------|-----------|
 | SKILL.md（本文件） | 总览 + 使用引导 + 原则 | 每次调用必读 |
-| references/traffic-templates.md | 87个流量模板（模版结构逐字） | 用户要做流量/共鸣/破圈内容 |
-| references/persona-templates.md | 90个人设模板 | 用户要做IP/观点/定位内容 |
-| references/growth-templates.md | 90个涨粉模板 | 用户要做干货/教程/避坑内容 |
-| references/monetization-templates.md | 92个变现模板 | 用户要做带货/种草/转化内容 |
+| references/traffic-templates.md | 87个流量模板（骨架+原文案例+裂变思路逐字） | 用户要做流量/共鸣/破圈内容 |
+| references/persona-templates.md | 90个人设模板（骨架+原文案例+裂变思路逐字） | 用户要做IP/观点/定位内容 |
+| references/growth-templates.md | 90个涨粉模板（骨架+原文案例+裂变思路逐字） | 用户要做干货/教程/避坑内容 |
+| references/monetization-templates.md | 92个变现模板（骨架+原文案例+裂变思路逐字） | 用户要做带货/种草/转化内容 |
 | references/copy-checker.md | 7维度质检清单 | 写完文案要优化/去AI味时 |
 | references/topic-fission.md | 三维度裂变方法 | 用户要多选题时 |
 | references/zhihu-guide.md | 知乎选题/真实感/排版/互动 | 知乎长图文场景 |
